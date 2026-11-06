@@ -1,0 +1,8 @@
+# Temporary & OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Legacy/empty folders
+dojo-mentefactos-ninja/
